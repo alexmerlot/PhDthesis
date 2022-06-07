@@ -1,0 +1,27 @@
+---
+bibliography: references.bib
+---
+
+# Literature reveiw
+
+## Background
+
+Genetic regulation can occur at a multitude of points throughout the process of transcription of a gene all the way through to post-translational modification of the resulting protein [@ai2022]. In the past it was thought that most regions of the genetic code that did not directly encode a protein product did not play an important role in the biology of the organism [@brarRibosomeProfilingReveals2015]. It is now well known that many non-coding regions play instrumentally important regulatory roles. This includes both long and short non coding RNAs and small transient peptides. In recent years it has become clear that these regulatory elements may prove useful in developing tools or for exploitation in order to produce novel traits in living organisms. This task is becoming increasingly important in the wake of the climate crises.
+
+## Climate change and crops
+
+The changing climate is a growing concern for food production. It affects both plants included in many peoples staple diet as well as high value crops that many countries rely on economically. The warming climate has lead to increased incidence of extreme weather events such as drought and floods and is also playing a major role in the spread of pathogens across larger geographical ranges. Adding to these is issues is the risk that warming temperatures will stop certain plants from meeting vernilisation requirements, which ultimately prevents them from forming seeds and fruit.
+
+## Kiwifruit
+
+Kiwifruit are one of the most economically important crops in the New Zealand export market. They respresent 32% of New Zealands horticultural export revenue
+
+## Upstream open reading frames
+
+Upstream open reading frames (uORFs) are small open reading frames located upstream of the main open reading frame (mORF) in the 5' untranslated region (5' UTR) of messenger RNA (mRNA). they belong to a larger group known as small open reading frames (sORFs), which can be present across the entire mRNA molecule. These features can play several roles in regulation of both the mRNA in CIS and other molecules in trans. It is thought that
+
+Non-AUG start codons
+
+[@andreev2022]
+
+Many uORFs begin with a non-conanonical or non-AUG start codon, or are reside in a sub-optimal kozak consensus. CUG (CTG) is a common start site in uORFs.

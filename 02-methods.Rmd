@@ -1,0 +1,11 @@
+# Methods {#method}
+
+## Molecular cloning
+
+Three types were used in the course of this project
+
+### Golden gate cloning {#golden}
+
+### Gateway cloning {#gateway}
+
+### Restriction enzyme cloning {#restrict}
