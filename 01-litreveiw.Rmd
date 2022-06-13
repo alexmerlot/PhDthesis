@@ -5,26 +5,52 @@ output:
     keep_md: yes
 ---
 
-# Literature reveiw
+# Literature review {#reveiw}
 
 ## Background
 
+### Global warming
+
+Over the past one hundred years anthropogenic activity has caused drastic changes to the natural environment. The climate has been warming at an unprecedented level causing major issues throughout the world, which is a growing concern for food production [@kulpNewElevationData2019]. At the beginning of 2022 the IPCC (Intergovernmental Panel on Climate Change ) released a report detailing the current situation and how thumans and the environment might be affected in the future if the trend continues.The main conclusion conveyed by the IPCC report was that climate change is occurring faster than previously though; [@zotero-undefinedc; @tollefson2022]. The report outlines the stark reality of the climate crises and reiterates the need to take action. Since 2008 more than 20 million people people have become displaced due to the effects og global warming. Much of this is due to extreme weather events such as droughts and floods, or due to unprecedented sea level rise [@espeland2018]. The IPCC has estimated that if this trend continues up to 132 million people may become displaced [@levin2022; @zotero-undefinedc]. Adding to these is issues is the risk that warming temperatures could stop certain plants from meeting vernilisation requirements, which ultimately prevents them from forming seeds and fruit[@hennessy1995; @penfield2021] .
+
+The warming of the planet affects both the food security of staple food crops, as well as high value or novelty food crops that many countries rely on economically [@zotero-undefinedc; @levin2022]. the warming climate will also effect the global food supply chain due to issues with disruptions to physical access, and hazardous transport conditions. These conditions are generally caused by the a fore ,mentioned extreme weather events can cause the price of staple food to increase by up to three times their normal price, making them un-affordable to most. Climate change is also creating decreased winter dormancy periods or vernilisation periods. This process is essential for the production of viable fruit from many plants including fruit, vegetables and grains. @tominaga2022 et al produced a study on the effects of a reduced dormancy period on a specific member of the Pome fruit family, Japanese or Asian pear (*Pyrus pyrifolia* Nakai). @tominaga2022 found that warmer winters led to increased floret abortion, they postulate that this may be due to lower expression of DORMANCY-ASSOCIATED MADS box. Expression of this transcription factor relies on external signals such as periods of colder temperature. This is not an isolated example. A recent study by @stewart2020 on the effects of climate change on five major fruits (apple, banana, grape, orange and watermelon) found that increasing temperature effected the flavour, quality and nutrition profile of all five fruits. In some cases this may be a positive but in those fruits that consumers expect a very specific fruit profile.
+
+Pome fruit in Japan
+
+Mediterraninan - low fruit set @medda2022a
+
+Less carbohydrate accumulation - @medda2022; @tominaga2022
+
+Sugar content in grapes @navratilova2021
+
+Book on effects of climate change on fruit nutrition
+
+**Biotechnology and genetic engineering**
+
+As more and more food security issues arise, the need for quick and robust solutions increases. Recent advances in the biotechnology industry, mostly attributed to novel genetic engineering and gene editing techniques may be invaluable in solving food crises.
+
+All of these events cause plants to undergo stress. This is not only detrimental to the plants own survival, but also causes major issues for humans, due to their reliance on plants for food, medicines and a source of income [@shivanna2022; @espelandStrategicPlantChoices2018]. In some cases plants can fit both of these categories.
+
+An example of this is kiwifruit which has both nutritional value but has a large value as a novelty fruit in countries where it is not easily sourced. Stress causes major yield losses as well as losses to the quality of the product.
+
+Producing plants that are resistant or able to cope better with these stresses has been an important objective in both the crop breeding and biotechnology industries. Many wild plants already have innate defence mechanisms which may be able to be introduced using traditional breeding, however this is a highly time consuming process. The use of GE (genetic engineering) technology can help to make this process faster and more efficient. This technology can be used to speed up the breeding process or to inttoduce new traits by manipulating genes the plant already possesses.
+
+## Molecular regulation and GE
+
 Genetic regulation can occur at a multitude of points throughout the process of transcription of a gene all the way through to post-translational modification of the resulting protein [@ai2022]. In the past it was thought that most regions of the genetic code that did not directly encode a protein product did not play an important role in the biology of the organism [@brarRibosomeProfilingReveals2015]. It is now well known that many non-coding regions play instrumentally important regulatory roles. This includes both long and short non coding RNAs and small transient peptides. In recent years it has become clear that these regulatory elements may prove useful in developing tools or for exploitation in order to produce novel traits in living organisms. This task is becoming increasingly important in the wake of the climate crises.
-
-## Climate change and crops
-
-The changing climate is a growing concern for food production. It affects both plants included in many peoples staple diet as well as high value crops that many countries rely on economically. The warming climate has lead to increased incidence of extreme weather events such as drought and floods and is also playing a major role in the spread of pathogens across larger geographical ranges. Adding to these is issues is the risk that warming temperatures will stop certain plants from meeting vernilisation requirements, which ultimately prevents them from forming seeds and fruit.
-
-## Kiwifruit
-
-Kiwifruit are one of the most economically important crops in the New Zealand export market. They respresent 32% of New Zealands horticultural export revenue
 
 ## Upstream open reading frames
 
 Upstream open reading frames (uORFs) are small open reading frames located upstream of the main open reading frame (mORF) in the 5' untranslated region (5' UTR) of messenger RNA (mRNA). they belong to a larger group known as small open reading frames (sORFs), which can be present across the entire mRNA molecule. These features can play several roles in regulation of both the mRNA in CIS and other molecules in trans. It is thought that
 
-Non-AUG start codons
-
 [@andreev2022]
 
+## Kiwifruit
+
+Kiwifruit are one of the most economically important crops in the New Zealand export market. They respresent 32% of New Zealands horticultural export revenue
+
+Non-AUG start codons
+
 Many uORFs begin with a non-conanonical or non-AUG start codon, or are reside in a sub-optimal kozak consensus. CUG (CTG) is a common start site in uORFs.
+
+## objectives
